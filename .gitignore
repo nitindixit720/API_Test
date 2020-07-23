@@ -1,0 +1,14 @@
+/.idea/*
+*.pyc
+/report/*
+/venv/*
+/lcctest/*
+*.log*
+*/*.sh
+/reports/*
+/poptest/*
+/*.json
+*.bak
+*.credentials
+/python3_update/*
+/screenshots/*
